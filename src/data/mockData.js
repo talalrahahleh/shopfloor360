@@ -45,6 +45,6 @@ export const OEE_BY_MACHINE = [
 ];
 
 export const USERS = {
-  operator: { password: 'bosch2024', role: 'Operator', name: 'Anna Bauer',    line: 'A' },
-  manager:  { password: 'bosch2024', role: 'Manager',  name: 'Hans Richter',  line: null },
+  operator: { password: 'Talal2003', role: 'Operator', name: 'Anna Bauer',    line: 'A' },
+  manager:  { password: 'Talal2003', role: 'Manager',  name: 'Hans Richter',  line: null },
 };
