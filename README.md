@@ -32,7 +32,7 @@
 ## Local Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shopfloor360.git
+git clone https://github.com/talalrahahleh/shopfloor360.git
 cd shopfloor360
 npm install
 npm run dev
@@ -45,7 +45,7 @@ Open [http://localhost:5173](http://localhost:5173)
 1. Push this repo to GitHub
 2. Go to **Settings → Pages → Source** → select **GitHub Actions**
 3. Push any commit to `main` — the workflow builds and deploys automatically
-4. Live at: `https://YOUR_USERNAME.github.io/shopfloor360/`
+4. Live at: `https://talalrahahleh.github.io/shopfloor360/`
 
 ---
 
