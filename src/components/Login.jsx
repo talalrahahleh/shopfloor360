@@ -172,8 +172,8 @@ export default function Login() {
 
         <div style={S.hint}>
           <div style={S.hintTitle}>Demo credentials</div>
-          operator / bosch2024 → Line A view<br />
-          manager &nbsp;/ bosch2024 → Full plant view
+          operator / Talal2003 → Line A view<br />
+          manager &nbsp;/ Talal2003 → Full plant view
         </div>
       </div>
     </div>
